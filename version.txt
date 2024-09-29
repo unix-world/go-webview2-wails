@@ -1,0 +1,4 @@
+v. 20240929
+github.com/wailsapp/go-webview2 @ 20240922 # 1.0.16.1
+
+OS: Windows only !

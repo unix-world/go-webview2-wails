@@ -1,6 +1,6 @@
 package edge
 
-import "github.com/wailsapp/go-webview2/webviewloader"
+import "github.com/unix-world/go-webview2-wails/webviewloader"
 
 type Capability string
 

@@ -14,8 +14,8 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/wailsapp/go-webview2/internal/w32"
-	"github.com/wailsapp/go-webview2/webviewloader"
+	"github.com/unix-world/go-webview2-wails/internal/w32"
+	"github.com/unix-world/go-webview2-wails/webviewloader"
 	"golang.org/x/sys/windows"
 )
 

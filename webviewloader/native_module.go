@@ -9,7 +9,7 @@ import (
 	"sync"
 	"unsafe"
 
-	"github.com/jchv/go-winloader"
+	"github.com/unix-world/go-winloader-jchv"
 
 	"golang.org/x/sys/windows"
 )
