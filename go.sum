@@ -1,0 +1,4 @@
+github.com/unix-world/go-winloader-jchv v0.0.0-20240929002203-c899919cfbde h1:RnPGHpiC8o64yGjqxI05e8VgsWaI9w6qstWBonP7Gdk=
+github.com/unix-world/go-winloader-jchv v0.0.0-20240929002203-c899919cfbde/go.mod h1:qOmSUWDiiWRyrdIXSIcfSxZSGa4PbeOT7iKSWebXOfI=
+golang.org/x/sys v0.25.0 h1:r+8e+loiHxRqhXVl6ML1nO3l1+oFoWbnlu2Ehimmi34=
+golang.org/x/sys v0.25.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
